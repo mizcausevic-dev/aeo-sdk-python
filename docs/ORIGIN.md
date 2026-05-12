@@ -6,7 +6,7 @@ In this case the pressure showed up around answer-engine visibility gaps, weak s
 
 That was the opening for **aeo-sdk-python**. The repo was designed around a simple idea: operators need more than visibility. They need evidence, priorities, and next actions that make sense under pressure. That is why the project is framed as answer-engine visibility rather than as a generic app demo. The point is not just to show that data can be rendered or APIs can be wired together. The point is to show what a practical control surface looks like when the audience is growth, search, and content operations teams.
 
-Existing tools missed the mark for understandable reasons. The available tooling landscape â€” SEO crawlers, analytics dashboards, and structured-data validators â€” helped with record-keeping, scanning, reporting, or workflow coverage. What it still missed was a way to connect web hygiene with citation readiness, semantic packaging, and answer-engine discoverability. In other words, the gap was not capability in isolation. The gap was operational coherence. The team responsible for day-to-day decisions still had to reconstruct the story manually.
+The surrounding toolchain was never useless. SEO crawlers, analytics dashboards, and structured-data validators handled adjacent parts of the job reasonably well. The problem was that they still left out a way to connect web hygiene with citation readiness, semantic packaging, and answer-engine discoverability. That left operators stitching together evidence by hand right when the environment was least forgiving.
 
 That shaped the design philosophy from the start:
 
