@@ -1,5 +1,10 @@
 # aeo-sdk-python
 
+[![PyPI](https://img.shields.io/pypi/v/aeo-protocol.svg)](https://pypi.org/project/aeo-protocol/)
+[![PyPI Downloads](https://img.shields.io/pypi/dm/aeo-protocol.svg)](https://pypi.org/project/aeo-protocol/)
+[![Python versions](https://img.shields.io/pypi/pyversions/aeo-protocol.svg)](https://pypi.org/project/aeo-protocol/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 Python SDK for the [AEO Protocol v0.1](https://github.com/mizcausevic-dev/aeo-protocol-spec) — parse, build, validate, and fetch AEO declaration documents.
 
 ## Install
